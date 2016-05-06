@@ -14,6 +14,10 @@ This app let them to just give the link to an client/user and then they will get
 
 Use it under the supervision of a specialist.
 
+## Link to acess online by Shinyapp.io
+
+https://mingyawang.shinyapps.io/STAI-App/
+
 ## More information or questions
 
 Contact me by mingya.wang.liu@gmail.com
